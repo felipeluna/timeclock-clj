@@ -1,0 +1,9 @@
+/classes/
+/.cpcache/
+/.nrepl-port
+/core
+/core.build_artifacts.txt
+/tclock
+/tclock.build_artifacts.txt
+/timeclock-clj.iml
+/.idea/
